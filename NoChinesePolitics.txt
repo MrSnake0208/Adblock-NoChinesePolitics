@@ -6,4 +6,5 @@
 !Homepage:https://github.com/YanFung/Ads/
 ! 
 !------------------------------
-github.com#?#li.repo-list-item.public.source:-abp-has(a:-abp-contains(cirosantilli))
+github.com#?#li.repo-list-item.public.source
+-abp-has(a:-abp-contains(cirosantilli))
