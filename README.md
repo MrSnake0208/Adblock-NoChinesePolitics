@@ -1,0 +1,1 @@
+# Adblock-NoChinesePolitics
