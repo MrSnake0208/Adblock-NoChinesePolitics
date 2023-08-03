@@ -14,4 +14,4 @@ github.com#?#div.Box-sc-g0xbh4-0.bItZsX:-abp-has(a:-abp-contains(zpc1314521))
 github.com#?#div.Box-sc-g0xbh4-0.bItZsX:-abp-has(a:-abp-contains(b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork))
 github.com#?#div.Box-sc-g0xbh4-0.bItZsX:-abp-has(a:-abp-contains(pxvr-official))
 github.com#?#div.Box-sc-g0xbh4-0.bItZsX:-abp-has(a:-abp-contains(cirosantilli))
-github.com##div.Box-sc-g0xbh4-0.bItZsX:has-text(cirosantilli)
+github.com##DIV[class="Box-sc-g0xbh4-0 lhFvfi"]
